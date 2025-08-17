@@ -1,0 +1,1 @@
+[{"artista":"King Boss","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/King_Boss_sd7u/mipipi.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/King_Boss_sd7u/mipipi.mp3","campo1":"Reparto","id":"2DhHv","campo2":"https://jlrecord.github.io/King_Boss_sd7u/mipipi.html","publicacion":"Mi Pipi"}]
